@@ -1,8 +1,8 @@
 class Pandia < Formula
   desc "Just serves static files quickly, making front-end development easier."
   homepage "https://github.com/DEGoodmanWilson/pandia"
-  url "https://github.com/DEGoodmanWilson/pandia/releases/download/v1.0.2/pandia-mac-1.0.2.tar.gz"
-  sha256 "c409c2af83448de893b614af68f45d0a1a56d9413308e35b4bce5044c4157f62"
+  url "https://github.com/DEGoodmanWilson/pandia/releases/download/v1.0.3/pandia-mac-1.0.3.tar.gz"
+  sha256 "67959d12f9ea61f0ac56975ed6c417c7585eca6ea52aaf9e76d97704c2813d32"
 
   bottle :unneeded
 
