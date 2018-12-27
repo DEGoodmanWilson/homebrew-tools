@@ -1,8 +1,8 @@
 class Luna < Formula
   desc "Luna project boilerplate CLI."
   homepage "https://github.com/DEGoodmanWilson/luna-cli"
-  url "https://github.com/DEGoodmanWilson/luna-cli/releases/download/v1.0.1/luna-1.0.1.tar.gz"
-  sha256 "7989e48b1bb080594689293aaa643d875eda4cb176dc21c8661e8df923735dc7"
+  url "https://github.com/DEGoodmanWilson/luna-cli/releases/download/v1.0.2/luna-1.0.2.tar.gz"
+  sha256 "d2edbe846c26ad96b480c56db806031761ac2410888c9a77c2374d2c279d0bb8"
 
   bottle :unneeded
 
