@@ -4,8 +4,6 @@ class Slax < Formula
   url "https://github.com/DEGoodmanWilson/slax/releases/download/v1.0/slax-mac-1.0.tar.gz"
   sha256 "fd04e56f4e604ce2fc615ac3534303e074cc4b35e4bb15afbb60f31382ea3985"
 
-  bottle :unneeded
-
   def install
     bin.install "slax"
   end
